@@ -6,7 +6,7 @@ Notebooks:
 - data cleaning and manipulation demonstrates
 - modeling
   - Apriori algorithm
-  - Classification techniques
+  - Forecasting vendor orders
   
  
 Tableau:
